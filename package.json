@@ -1,6 +1,6 @@
 {
   "name": "qiyun-gomoku",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "棋韵 - 智能五子棋对弈平台",
   "private": true,
   "scripts": {
